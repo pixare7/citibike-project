@@ -3,7 +3,7 @@
 ### Executive Summary:
 This project analyzes data from New York City's Citibike program, utilizing a series of interactive Tableau dashboards to answer key questions posed by city officials. The data provides insights into how bike-sharing is utilized in the city, highlighting trends in usage and ride patterns throughout 2023. The analysis aims to help city officials understand bike-sharing behavior and identify opportunities to improve the service.  
 The project focuses on key metrics such as ride type, user type, percentage changes in ride counts, and distance covered over time, visualized through interactive maps and charts. The ultimate goal is to uncover trends that guide business decisions, helping make the Citibike program more efficient and accessible.
-You can explore the **Tableau dashboard** [here](https://public.tableau.com/views/citibike_data_17288848956340/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) (add your Tableau link).
+You can explore the **Tableau dashboard** [here](https://public.tableau.com/views/citibike_data_17288848956340/Story?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ### Business Problems:
 
